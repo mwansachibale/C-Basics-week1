@@ -244,3 +244,26 @@ nano day1.c
 pacman -S gcc
 gcc day1.c -o day1
 ./day1
+nano day1.c
+git add .
+git  commit -m "day1"
+gi config --global user.email "mikemwansa11@gmail.com"
+omit --global
+pacman -S git
+y
+
+gi config --global user.email "mikemwansa11@gmail.com"
+omit --global
+commit --global
+git add day1 .
+git commit -m "day1 first program"
+gi config --global user.email "mikemwansa11@gmail.com"
+git config --global user.email "mikemwansa11@gmail.com"
+git config --global user.name "mwansachibale"
+git commit -m "day1 first program"
+git remote add origin main https://github.com/mwansachibale/C-Basics-week1.git
+git remote add origin https://github.com/mwansachibale/C-Basics-week1.git
+git push -u origin main
+git status
+git push -u origin master
+git push -u origin main
